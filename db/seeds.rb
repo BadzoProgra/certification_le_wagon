@@ -10,7 +10,7 @@ garden_names = [
   "English garden",
   "Flowered patio",
   "Garden in Japan",
-  "Walk among flowers"
+  "Walk among flowers",
 ]
 
 garden_names.each do |garden_name|
